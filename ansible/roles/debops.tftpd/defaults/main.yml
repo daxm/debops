@@ -33,5 +33,5 @@ tftpd_options: '--secure'
 # .. envvar:: tftpd_allow
 #
 # List of IP addresses or CIDR networks which are allowed to connect to TFTP
-# server. If it's empty, anybody can connect to the FTP server.
+# server. If it's empty, anybody can connect to the TFTP server.
 tftpd_allow: []
